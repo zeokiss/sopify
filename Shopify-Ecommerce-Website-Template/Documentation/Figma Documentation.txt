@@ -1,0 +1,14 @@
+Instructions for unpacking product:
+==================================
+
+To modify this file,  The Figma software must be installed on your device.
+You can download Figma from https://www.figma.com/downloads/
+=================
+
+Extract the contents of the .zip file into a folder of your choice.
+
+Open the extracted folder.
+
+Double-click on "Planti.fig" to open the file in Figma.
+
+Modify the file as desired and save your changes."
